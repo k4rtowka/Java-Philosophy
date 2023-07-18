@@ -1,5 +1,5 @@
 /**
- * Упражнение 3
+ * Упражнение 2
  * @author k4rtowka
  */
 public class Main {
